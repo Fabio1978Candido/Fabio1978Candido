@@ -8,14 +8,20 @@ Transformo necessidades operacionais em soluções digitais, integrando aplicati
 
 ## Projetos em destaque
 
-| Projeto | Especialidade | Apresentação |
-|:---|:---|:---|
-| **Carimbo GPON** | Operações de telecomunicações e serviços de campo | [Explorar →](portfolio/carimbo-gpon.md) |
-| **NexaOne** | Materiais, estoque e almoxarifado | [Explorar →](portfolio/nexaone.md) |
-| **ControlSara Central** | Gestão administrativa integrada | [Explorar →](portfolio/controlsara.md) |
-| **Gestão Multiescolas** | Administração educacional | [Explorar →](portfolio/multiescolas.md) |
-| **Gestão Veterinária** | Gestão clínica — projeto em planejamento | [Explorar →](portfolio/veterinaria.md) |
-| **Automatizador WhatsApp** | Comunicação e automação operacional | [Explorar →](portfolio/automacao.md) |
+<table>
+<tr>
+<td width="50%"><a href="portfolio/carimbo-gpon.md"><img src="assets/carimbo-gpon-card.svg" alt="Carimbo GPON" width="100%"></a></td>
+<td width="50%"><a href="portfolio/nexaone.md"><img src="assets/nexaone-card.svg" alt="NexaOne" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="portfolio/controlsara.md"><img src="assets/controlsara-card.svg" alt="ControlSara Central" width="100%"></a></td>
+<td width="50%"><a href="portfolio/multiescolas.md"><img src="assets/multiescolas-card.svg" alt="Gestão Multiescolas" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="portfolio/veterinaria.md"><img src="assets/veterinaria-card.svg" alt="Gestão Veterinária" width="100%"></a></td>
+<td width="50%"><a href="portfolio/automacao.md"><img src="assets/automacao-card.svg" alt="Automatizador WhatsApp" width="100%"></a></td>
+</tr>
+</table>
 
 ## Tecnologias
 

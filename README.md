@@ -1,5 +1,7 @@
 ![Fábio Candido — Portfólio profissional](assets/banner-nexa-one.svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fábio%20Candido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio1978candido/)
+
 # Desenvolvimento de software e soluções empresariais
 
 Transformo necessidades operacionais em soluções digitais, integrando aplicativos, plataformas web, bancos de dados e automação de processos.
@@ -45,5 +47,7 @@ Transformo necessidades operacionais em soluções digitais, integrando aplicati
 Documentação demonstrativa de projetos e iniciativas de desenvolvimento. Não são publicados códigos-fonte proprietários, credenciais, dados operacionais ou informações confidenciais. A apresentação não constitui declaração de titularidade exclusiva sobre soluções desenvolvidas em contexto empresarial.
 
 ## Conexões profissionais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fábio%20Candido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio1978candido/)
 
 [GitHub — Fabio1978Candido](https://github.com/Fabio1978Candido) · [Nexa One](portfolio/nexaone.md)

@@ -1,21 +1,35 @@
+![NexaOne](../assets/nexaone-cover.svg)
+
 # NexaOne
 
-**Área:** Gestão de materiais e almoxarifado
+**Área:** Materiais e almoxarifado
 
-## Visão geral
+## Objetivo
 
-Controle de materiais, solicitações, conferência e movimentações de estoque, incluindo processos de bipagem.
+Organizar solicitações, conferências e movimentações de materiais.
 
-## Situação
+## Escopo funcional
 
-Projeto de desenvolvimento e evolução funcional.
+- Solicitação e separação de materiais
+- Conferência de quantidades
+- Bipagem de materiais
+- Acompanhamento de movimentações
 
-## Demonstração
+## Benefícios esperados
 
-Imagens e vídeos poderão ser adicionados após revisão e anonimização.
+- Melhor organização das informações e dos processos.
+- Redução de atividades manuais e maior rastreabilidade, conforme o escopo do projeto.
+
+## Situação do projeto
+
+Em evolução funcional.
+
+## Demonstrações
+
+Capturas de tela e vídeos serão incluídos somente após autorização e revisão de confidencialidade. Não são apresentados resultados quantitativos sem validação.
 
 ## Confidencialidade
 
-Página exclusivamente demonstrativa. Não inclui código-fonte proprietário, dados reais, credenciais ou detalhes internos. A divulgação não estabelece titularidade jurídica exclusiva.
+Material exclusivamente demonstrativo. Não inclui código-fonte proprietário, credenciais, dados reais ou detalhes internos. A apresentação não estabelece titularidade jurídica exclusiva.
 
-[Voltar ao portfólio](../README.md)
+[← Voltar ao portfólio Nexa One](../README.md)

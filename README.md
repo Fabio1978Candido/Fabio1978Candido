@@ -1,6 +1,6 @@
 ![Fábio Candido — Portfólio profissional](assets/banner-nexa-one.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fábio%20Candido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio1978candido/)
+[![LinkedIn — Fábio Candido](assets/linkedin-profissional.svg)](https://www.linkedin.com/in/fabio1978candido/)
 
 # Desenvolvimento de software e soluções empresariais
 
@@ -48,6 +48,6 @@ Documentação demonstrativa de projetos e iniciativas de desenvolvimento. Não 
 
 ## Conexões profissionais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fábio%20Candido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio1978candido/)
+[![LinkedIn — Fábio Candido](assets/linkedin-profissional.svg)](https://www.linkedin.com/in/fabio1978candido/)
 
 [GitHub — Fabio1978Candido](https://github.com/Fabio1978Candido) · [Nexa One](portfolio/nexaone.md)

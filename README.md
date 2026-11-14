@@ -40,4 +40,4 @@ Documentação demonstrativa de projetos e iniciativas de desenvolvimento. Não 
 
 ## Conexões profissionais
 
-[GitHub — Fabio1978Candido](https://github.com/Fabio1978Candido) · [Átomo Service Informática](https://github.com/Fabio1978Candido/atomoservice-site)
+[GitHub — Fabio1978Candido](https://github.com/Fabio1978Candido) · [Nexa One](portfolio/nexaone.md)

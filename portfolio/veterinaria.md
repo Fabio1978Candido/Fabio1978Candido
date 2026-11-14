@@ -1,21 +1,34 @@
+![Gestão Veterinária](../assets/veterinaria-cover.svg)
+
 # Gestão Veterinária
 
-**Área:** Gestão de clínicas veterinárias
+**Área:** Saúde animal
 
-## Visão geral
+## Objetivo
 
-Proposta de solução para organizar cadastros de tutores e animais, atendimentos e rotinas administrativas.
+Propor uma plataforma para organização das rotinas clínicas e administrativas.
 
-## Situação
+## Funcionalidades propostas
 
-Em planejamento; funcionalidades propostas, não entregas confirmadas.
+- Cadastro de tutores e animais
+- Organização de atendimentos
+- Rotinas administrativas
 
-## Demonstração
+## Benefícios esperados
 
-Imagens e vídeos poderão ser adicionados após revisão e anonimização.
+- Melhor organização das informações e dos processos.
+- Redução de atividades manuais e maior rastreabilidade, conforme o escopo do projeto.
+
+## Situação do projeto
+
+Em planejamento. Os itens acima são propostas, não funcionalidades entregues.
+
+## Demonstrações
+
+Capturas de tela e vídeos serão incluídos somente após autorização e revisão de confidencialidade. Não são apresentados resultados quantitativos sem validação.
 
 ## Confidencialidade
 
-Página exclusivamente demonstrativa. Não inclui código-fonte proprietário, dados reais, credenciais ou detalhes internos. A divulgação não estabelece titularidade jurídica exclusiva.
+Material exclusivamente demonstrativo. Não inclui código-fonte proprietário, credenciais, dados reais ou detalhes internos. A apresentação não estabelece titularidade jurídica exclusiva.
 
-[Voltar ao portfólio](../README.md)
+[← Voltar ao portfólio Nexa One](../README.md)

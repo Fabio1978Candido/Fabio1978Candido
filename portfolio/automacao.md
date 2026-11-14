@@ -1,21 +1,35 @@
+![Automatizador WhatsApp](../assets/automacao-cover.svg)
+
 # Automatizador WhatsApp
 
-**Área:** Automação de comunicação
+**Área:** Comunicação operacional
 
-## Visão geral
+## Objetivo
 
-Automação de notificações operacionais, com controle de mensagens enviadas e intervalos configuráveis de consulta.
+Reduzir tarefas repetitivas de comunicação e evitar reenvios indevidos.
 
-## Situação
+## Escopo funcional
 
-Projeto em evolução.
+- Notificações operacionais
+- Controle de mensagens enviadas
+- Intervalos configuráveis de consulta
+- Integração com registros operacionais
 
-## Demonstração
+## Benefícios esperados
 
-Imagens e vídeos poderão ser adicionados após revisão e anonimização.
+- Melhor organização das informações e dos processos.
+- Redução de atividades manuais e maior rastreabilidade, conforme o escopo do projeto.
+
+## Situação do projeto
+
+Em evolução funcional.
+
+## Demonstrações
+
+Capturas de tela e vídeos serão incluídos somente após autorização e revisão de confidencialidade. Não são apresentados resultados quantitativos sem validação.
 
 ## Confidencialidade
 
-Página exclusivamente demonstrativa. Não inclui código-fonte proprietário, dados reais, credenciais ou detalhes internos. A divulgação não estabelece titularidade jurídica exclusiva.
+Material exclusivamente demonstrativo. Não inclui código-fonte proprietário, credenciais, dados reais ou detalhes internos. A apresentação não estabelece titularidade jurídica exclusiva.
 
-[Voltar ao portfólio](../README.md)
+[← Voltar ao portfólio Nexa One](../README.md)

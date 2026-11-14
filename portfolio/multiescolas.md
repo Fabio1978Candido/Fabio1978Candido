@@ -1,21 +1,34 @@
+![Gestão Multiescolas](../assets/multiescolas-cover.svg)
+
 # Gestão Multiescolas
 
-**Área:** Gestão educacional
+**Área:** Educação
 
-## Visão geral
+## Objetivo
 
-Proposta de plataforma para administração de instituições de ensino, com organização de cadastros e gestão centralizada.
+Organizar a administração de múltiplas instituições de ensino.
 
-## Situação
+## Escopo funcional
 
-Em desenvolvimento.
+- Cadastro de instituições
+- Organização de informações administrativas
+- Gestão centralizada
 
-## Demonstração
+## Benefícios esperados
 
-Imagens e vídeos poderão ser adicionados após revisão e anonimização.
+- Melhor organização das informações e dos processos.
+- Redução de atividades manuais e maior rastreabilidade, conforme o escopo do projeto.
+
+## Situação do projeto
+
+Em desenvolvimento; escopo sujeito a evolução.
+
+## Demonstrações
+
+Capturas de tela e vídeos serão incluídos somente após autorização e revisão de confidencialidade. Não são apresentados resultados quantitativos sem validação.
 
 ## Confidencialidade
 
-Página exclusivamente demonstrativa. Não inclui código-fonte proprietário, dados reais, credenciais ou detalhes internos. A divulgação não estabelece titularidade jurídica exclusiva.
+Material exclusivamente demonstrativo. Não inclui código-fonte proprietário, credenciais, dados reais ou detalhes internos. A apresentação não estabelece titularidade jurídica exclusiva.
 
-[Voltar ao portfólio](../README.md)
+[← Voltar ao portfólio Nexa One](../README.md)

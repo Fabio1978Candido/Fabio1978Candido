@@ -1,21 +1,35 @@
+![ControlSara Central](../assets/controlsara-cover.svg)
+
 # ControlSara Central
 
 **Área:** Gestão integrada
 
-## Visão geral
+## Objetivo
 
-Centralização de processos administrativos, solicitações de materiais e acompanhamento de operações.
+Centralizar rotinas administrativas e integrar processos de materiais.
 
-## Situação
+## Escopo funcional
+
+- Acompanhamento de solicitações
+- Conferência de materiais
+- Histórico de movimentações
+- Integração de processos administrativos
+
+## Benefícios esperados
+
+- Melhor organização das informações e dos processos.
+- Redução de atividades manuais e maior rastreabilidade, conforme o escopo do projeto.
+
+## Situação do projeto
 
 Projeto de gestão integrada.
 
-## Demonstração
+## Demonstrações
 
-Imagens e vídeos poderão ser adicionados após revisão e anonimização.
+Capturas de tela e vídeos serão incluídos somente após autorização e revisão de confidencialidade. Não são apresentados resultados quantitativos sem validação.
 
 ## Confidencialidade
 
-Página exclusivamente demonstrativa. Não inclui código-fonte proprietário, dados reais, credenciais ou detalhes internos. A divulgação não estabelece titularidade jurídica exclusiva.
+Material exclusivamente demonstrativo. Não inclui código-fonte proprietário, credenciais, dados reais ou detalhes internos. A apresentação não estabelece titularidade jurídica exclusiva.
 
-[Voltar ao portfólio](../README.md)
+[← Voltar ao portfólio Nexa One](../README.md)

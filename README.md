@@ -1,4 +1,4 @@
-![Fábio Candido — Portfólio profissional](assets/banner.svg)
+![Fábio Candido — Portfólio profissional](assets/banner-nexa-one.svg)
 
 # Desenvolvimento de software e soluções empresariais
 
